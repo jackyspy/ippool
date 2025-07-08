@@ -1,4 +1,4 @@
-# ippool 开发指南
+# ipools 开发指南
 
 ## 🚀 快速开始
 
@@ -148,6 +148,7 @@ make clean
 - 基准测试结果总结: [BENCHMARK_SUMMARY.md](BENCHMARK_SUMMARY.md)
 - 项目主页: [README.md](README.md)
 - 中文文档: [README_zh.md](README_zh.md)
+- [PyPI](https://pypi.org/project/ipools/)
 
 ## 🤝 贡献指南
 

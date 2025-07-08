@@ -1,10 +1,10 @@
 [English](README.md) | [中文](README_zh.md)
 
-# ippool
+# ipools
 
 高效的 IPv4/IPv6 地址池管理与运算库
 
-[![PyPI version](https://badge.fury.io/py/ippool.svg)](https://pypi.org/project/ippool/)
+[![PyPI version](https://badge.fury.io/py/ipools.svg)](https://pypi.org/project/ipools/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -30,7 +30,7 @@
 ## 安装
 
 ```bash
-pip install ippool
+pip install ipools
 ```
 
 ---
@@ -455,7 +455,7 @@ MIT License，详见 [LICENSE](LICENSE)。
 
 ## 相关链接
 
-- [PyPI](https://pypi.org/project/ippool/)
+- [PyPI](https://pypi.org/project/ipools/)
 - [GitHub](https://github.com/jackyspy/ippool)
 
 ---

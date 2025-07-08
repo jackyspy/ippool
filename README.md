@@ -1,10 +1,10 @@
 [English](README.md) | [中文](README_zh.md)
 
-# ippool
+# ipools
 
 Efficient IP address pool management and operations for IPv4/IPv6 networks.
 
-[![PyPI version](https://badge.fury.io/py/ippool.svg)](https://pypi.org/project/ippool/)
+[![PyPI version](https://badge.fury.io/py/ipools.svg)](https://pypi.org/project/ipools/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
@@ -20,7 +20,7 @@ Efficient IP address pool management and operations for IPv4/IPv6 networks.
 ## Installation
 
 ```bash
-pip install ippool
+pip install ipools
 ```
 
 ## Quick Start (Python API)
@@ -428,7 +428,7 @@ MIT License. See [LICENSE](LICENSE).
 
 ## Links
 
-- [PyPI](https://pypi.org/project/ippool/)
+- [PyPI](https://pypi.org/project/ipools/)
 - [GitHub](https://github.com/jackyspy/ippool)
 
 ## Authors

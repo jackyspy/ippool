@@ -1,6 +1,6 @@
-# ippool 基准测试指南
+# ipools 基准测试指南
 
-本文档介绍如何使用 pytest-benchmark 对 ippool 库进行性能测试。
+本文档介绍如何使用 pytest-benchmark 对 ipools 库进行性能测试。
 
 ## 快速开始
 
