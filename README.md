@@ -1,4 +1,4 @@
-[English](README.md) | [中文](README_zh.md)
+[English](README.md) | [中文](https://github.com/jackyspy/ippool/blob/main/README_zh.md)
 
 # ipools
 

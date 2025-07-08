@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ipools"
-version = "1.0.0"
+version = "1.0.1"
 description = "Efficient IP address pool management and operations for IPv4/IPv6 networks."
 readme = "README.md"
 requires-python = ">=3.7"
