@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+dist/
+ippool.egg-info/
+.coverage
